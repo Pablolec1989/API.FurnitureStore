@@ -1,0 +1,17 @@
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Data.deps.json
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Data.dll
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Shared.dll
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\bin\Release\net6.0\API.FurnitureStore.Shared.pdb
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.Furn.13821F83.Up2Date
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.dll
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\refint\API.FurnitureStore.Data.dll
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
+C:\Users\LECCESE\source\repos\API.Mastery.NET\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Release\net6.0\ref\API.FurnitureStore.Data.dll

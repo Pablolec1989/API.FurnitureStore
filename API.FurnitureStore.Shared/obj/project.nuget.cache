@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OaQvumnD/8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LECCESE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\LECCESE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\LECCESE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

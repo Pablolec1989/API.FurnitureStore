@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
+        "projectName": "API.FurnitureStore.API",
+        "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
+        "packagesPath": "C:\\Users\\LECCESE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LECCESE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {
+                "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj"
+              },
+              "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+        "projectName": "API.FurnitureStore.Data",
+        "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj",
+        "packagesPath": "C:\\Users\\LECCESE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LECCESE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+                "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "projectName": "API.FurnitureStore.Shared",
+        "projectPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "packagesPath": "C:\\Users\\LECCESE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LECCESE\\source\\repos\\API.Mastery.NET\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LECCESE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
